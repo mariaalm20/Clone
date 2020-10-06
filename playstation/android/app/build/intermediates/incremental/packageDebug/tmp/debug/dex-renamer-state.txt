@@ -1,0 +1,4 @@
+#Sun Oct 04 20:21:00 BRT 2020
+base.0=/home/mafe/Documentos/mobile/clone/playstation/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

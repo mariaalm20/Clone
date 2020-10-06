@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": 1, "title":"Dual Sense", "subtitle":"Official ps5 controller", "image": "PLAY1" },
+    { "id": 2,"title":"Dual Sense", "subtitle":"Official ps5 controller", "image": "PLAY2" },
+    { "id": 3,"title":"Dual Sense", "subtitle":"Official ps5 controller", "image": "PLAY3"}
+  ]
+ }
