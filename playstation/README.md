@@ -19,16 +19,16 @@ Clone do aplicativo: https://dribbble.com/shots/11522847-Playstation-5-DualSense
 
 
 ## 🖥 Dependências
-
-  - **[Express][express]**
-  - **[CORS][cors]**
-  - **[MongoDb][mongodb]**
-  - **[Mongoose][mongoose]**
-  - **[ts-node][tsnode]**
-  - **[Multer][multer]**
-  - **[JWT][jsonwebtoken]**
-  - **[Nodemailer][nodemailer]**
-  - **[BcryptJs][bcryptjs]**
+  
+  -  react
+  -  react-native
+  -  react-native-elevation
+  -  react-native-gesture-handler
+  -  react-native-linear-gradient
+  -  react-native-reanimated
+  -  react-native-redash
+  -  react-native-vector-icons
+  -  styled-components
  
  
  ## 📦 Instalação
